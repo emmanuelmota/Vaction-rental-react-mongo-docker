@@ -1,6 +1,7 @@
 # Project Name
 
-> Project description
+> This is a vaction rental booking app made with React, MongoDB, Docker and a few other technologies. 
+> 
 
 ## Related Projects
 
